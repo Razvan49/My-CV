@@ -21,7 +21,7 @@ body {
   margin-top: 100px;
 }
 
-#personName {
+.personName {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
@@ -38,7 +38,8 @@ body {
 }
 
 .about-me-section {
-  width: 400px;
+  width: 387px;
+  text-align: justify;
 }
 
 .about-me-section p {
@@ -89,6 +90,7 @@ ol li,
 }
 
 .work-experience-section {
+  width: 500px;
   margin-top: 50px;
 }
 
